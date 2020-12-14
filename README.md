@@ -37,6 +37,6 @@ Mudando a cor do tema
 Para mudar a cor do tema, substitua o hexa da variável \$primary no arquivo src/assets/sass/\_variables.scss.
 
 Contribuindo
-Sugestões e Pull Requests são bem vindas!
+Sugestões e Pull Requests são bem vindas! Pode dale!
 
 Abra uma issue e submeta uma PR para contribuir!
