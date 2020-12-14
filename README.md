@@ -2,7 +2,7 @@
 
 Template baseado no Resume, de startbootstrap
 
-Para verificar a documentação, acesse aqui.
+Para verificar a documentação, [acesse aqui](https://startbootstrap.com/theme/resume).
 
 ## Como instalar
 
